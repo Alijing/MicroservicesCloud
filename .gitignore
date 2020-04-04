@@ -1,0 +1,17 @@
+# Project exclude paths
+/microservicesCloudAPI/target/
+/microservicesCloudConfig3344/target/
+/microservicesCloudConfigClient3355/target/
+/microservicesCloudConfigEurekaClient7001/target/
+/microservicesCloudConfigProviderDept8001/target/
+/microservicesCloudConsumerDept80/target/
+/microservicesCloudConsumerDeptFeign/target/
+/microservicesCloudConsumerHystrixDashboard/target/
+/microservicesCloudEureka7001/target/
+/microservicesCloudEureka7002/target/
+/microservicesCloudEureka7003/target/
+/microservicesCloudProviderDept8001/target/
+/microservicesCloudProviderDept8002/target/
+/microservicesCloudProviderDept8003/target/
+/microservicesCloudProviderDeptHystrix8001/target/
+/microservicesCloudZuulGateway9527/target/
